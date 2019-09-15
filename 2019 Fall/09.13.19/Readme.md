@@ -15,10 +15,8 @@
 * The second team will be made up of people who help build projects and labs to train the club members. Helping to maintain this Github repo and adding value to projects, events, and other tasks will get you spots on this team. 
 
 ### We also held Elections this club meeting. The following are the results:
-- President: 
-- Vice President: 
-- Secretary: 
-- Treasurer: 
-- Member at large: 
-
-If you're seeing this before Friday, you know all my secrets. 
+- President: Chris Meyer
+- Vice President: Noah Smith
+- Secretary: Nolan Hemlich
+- Treasurer: Nate Fergusson
+- Member at large: Ryan Lewis
